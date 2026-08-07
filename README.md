@@ -23,5 +23,12 @@ Este es mi perfil como dev. Sigo buscando en qué quedarme mientras voy haciendo
 
 ---
 
+### 📊 Mis Métricas y Logros
+<p align="center">
+  <img src="github-metrics.svg" alt="Metrics" width="100%">
+</p>
+
+---
+
 ### 📫 ¿Hablamos?
 Si quieres contactarme o ver en qué estoy trabajando, ¡no dudes en revisar mis repositorios!
