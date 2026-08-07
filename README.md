@@ -1,27 +1,26 @@
+<p align="center">
+  <img src="https://giffiles.alphacoders.com/222/222665.gif" width="100%" alt="header gif" />
+</p>
+
 # Hola, soy Hirotaka 👋
 
-Este es mi perfil como dev. Sigo explorando mi camino mientras construyo diversos proyectos; creo firmemente que cada día es una oportunidad para aprender algo nuevo, ¿por qué no aprovecharla?
+Este es mi perfil como dev. Sigo buscando en qué quedarme mientras voy haciendo diferentes proyectos; todos los días se puede aprender algo nuevo, ¿por qué no aprovecharlo entonces?
 
-### 🛠️ Tecnologías que domino
-Aquí están las herramientas con las que trabajo actualmente:
-
+### 🛠️ Tecnologías que uso
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,py,flutter,dart,reactnative&theme=dark)](https://skillicons.dev)
 
-> **Nota sobre mi stack:** También tengo bases sólidas en **Java, C y C++**. Aunque no los he tocado profundamente en los últimos dos años, me dieron la lógica necesaria para aprender lo que uso hoy.
+> **Dato adicional:** También tengo experiencia con **Java, C y C++**, aunque llevo un tiempo sin profundizarlos, son la base de mi lógica de programación.
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-Para que veas en qué he estado trabajando últimamente:
+## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hirotaka532&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Hirotaka532" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirotaka532&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hirotaka532&show_icons=true&theme=dark" alt="Estadísticas de Hirotaka532" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirotaka532&layout=compact&theme=dark" alt="Lenguajes más usados" height="150"/>
 </p>
 
 ---
 
-### 📫 Contacto
-Si quieres charlar sobre algún proyecto o simplemente saludar:
-- **GitHub:** [Hirotaka532](https://github.com/Hirotaka532)
+### 📫 ¿Hablamos?
+Si quieres contactarme o ver en qué estoy trabajando, ¡no dudes en revisar mis repositorios!
